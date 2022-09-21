@@ -1,0 +1,24 @@
+THERE ARE 2 CLAIM FORMS USED IN ALLOVER US AND IN PMS
+1) HCFA/CMS 1500 ( HEALTCARE FINANCIAL ADMINISTRATION) 
+CENTER FOR MEDICARE AND MEDICAID SERVICES
+- IT IS USE FOR DOCTORS FEES OR CHARGES OR BILLING
+
+2) UB04 
+- THIS IS USED FOR HOSPITAL CHARGES
+
+3) Provider - Doctor
+
+4) Carrier - Insurance - Payer
+
+5) Name Format - Last name, First name Middle Initial
+   Willaim, Smith J
+
+6) Account Number - is the uniq account created for each patient, for one person
+we use to create only one account in PMS
+
+7) Ticket# / Visit# / Invoice# - For each Date of Service we will create new Ticket#
+under same Account
+
+8) Financial Class - Woker compensation, Government, Commercial . . . 
+
+9) Insurance or Carrier - UHC, AETNA, CIGNA, BCBS, MEDICARE, MEDICAID, TRICARE . . . 
